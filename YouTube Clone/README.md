@@ -4,28 +4,36 @@ A front-end clone of the YouTube homepage built using pure HTML and CSS. This pr
 
 Overview
 
-This project recreates the look and feel of YouTube’s homepage, including:
+This project replicates the core visual structure of YouTube, including:
 
-Top navigation bar
-Sidebar menu
-Video grid layout
-Thumbnails and channel info
-Clean and structured UI
+Sticky header with search bar and icons
+Sidebar navigation menu
+Video grid with thumbnails
+Channel profiles with hover tooltips
+Clickable video and channel links
+
+All video links redirect to real YouTube content.
 
 It’s built entirely with HTML and CSS to strengthen core front-end skills.
 
-Built With:
-HTML5,CSS3,Flexbox,CSS Grid
+Technologies Used
+HTML5
+CSS3
+Flexbox
+CSS Grid
+Google Fonts (Roboto)
 
 Features
-Video cards with thumbnails
-Responsive layout for different screen sizes
-Fixed/sticky header
-Sidebar navigation
-Modular CSS (split into multiple files)
+Video preview cards with duration overlay
+Channel profile pictures with hover tooltips
+Search bar UI (non-functional)
+Notification icon with badge
+Clean and responsive layout
+External links to actual YouTube videos and channels
 
 What I Learned
-Structuring layouts using CSS Grid and Flexbox
-Organizing styles into separate CSS files for scalability
-Replicating a real-world UI using only HTML & CSS
-Improving spacing, alignment, and visual hierarchy
+Building complex layouts using CSS Grid & Flexbox
+Structuring a real-world UI from scratch
+Organizing CSS into modular files
+Creating hover effects and tooltips using pure CSS
+Improving spacing, alignment, and responsiveness
