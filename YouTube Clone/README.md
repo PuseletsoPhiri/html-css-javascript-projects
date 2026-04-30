@@ -37,3 +37,7 @@ Structuring a real-world UI from scratch
 Organizing CSS into modular files
 Creating hover effects and tooltips using pure CSS
 Improving spacing, alignment, and responsiveness
+
+Screenshots
+<img width="1913" height="955" alt="YouTube-Clone-Screenshot" src="https://github.com/user-attachments/assets/88b0c587-e7b4-4b4c-abe8-3d2ad9ba68e7" />
+
