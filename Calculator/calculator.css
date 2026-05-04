@@ -1,0 +1,35 @@
+body{
+  background-color: black;
+  font-family: Arial;
+}
+.calculation{
+  color: white;
+  font-size: 45px;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+.number-btn{
+  background-color: rgb(60, 59, 59);
+  color: white;
+  border: none;
+  height: 60px;
+  width: 60px;
+  border-radius: 60px;
+  font-size: 26px;
+  margin-right: 6px;
+  cursor: pointer;
+}
+.arithmetic-btn{
+  background-color: orange;
+  color: white;
+  border: none;
+  height: 60px;
+  width: 60px;
+  border-radius: 60px;
+  font-size: 26px;
+  margin-right: 6px;
+  cursor: pointer;
+}
+.clear-btn{
+  font-size: 17px;
+}
